@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}.xxlagre{
+    font-size: xx-large;
+}
+.medium{
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.top-banner{
+    background-image:url("images/top-banner.png") ;
+}
+section{
+    height: 500px;
+}
